@@ -1,0 +1,2 @@
+File_name,R1reads,R2reads,R1R2reads,FirstMappingReads,UniqueReads,TrimmedReads,SecondMappingReads,AverageLength,stdLength,ReferenceLength,EqualBases,Percentage,MeanCoverage,MeanQuality,DiversityIndexError0,DiversityIndexError0.01,DiversityIndexError0.05
+Sample1,338034,338034,676068,574816,332588,316081,246080,129.021,26.772,11977,11929,99.599,2245.344,263.205,4454.79,4454.79,2929.727
