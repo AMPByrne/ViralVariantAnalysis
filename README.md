@@ -1,8 +1,8 @@
 # ViralVariantAnalysis
-# Javier Nunez
-# CSU, Animal and Plant Health Agency, Gov, UK
+Javier Nunez
+CSU, Animal and Plant Health Agency, Gov, UK
 
-Provides the location-site where viral sub-populations divert from a comon consensus genome.
+Provides the location-sites where viral sub-populations divert from a common consensus genome.
 
 To run this software you will need to have installed:
 
