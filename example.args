@@ -1,0 +1,9 @@
+ref_sequence="/media/javier/4TB1/MoreWork/Virology/Sarah/NGS_sub420_Dec17/References/Ref1.fa"
+fastq_R1="/media/javier/4TB1/MoreWork/Virology/Sarah/NGS_sub420_Dec17/fastqs/Sample1_R1.fastq.gz"
+fastq_R2="/media/javier/4TB1/MoreWork/Virology/Sarah/NGS_sub420_Dec17/fastqs/Sample1_R2.fastq.gz"
+call_quality_threshold=30
+map_quality_threshold=40
+software_path="/media/javier/3TB/Work/WorkVLA/Software/VariantAnalyser"
+results_path="/media/javier/4TB1/MoreWork/Virology/Sarah/NGS_sub420_Dec17/VariantAnalysis/Try"
+trimmomatric="/media/javier/3TB/Work/WorkVLA/Software/VariantAnalyser/trimmomatic-0.30.jar"
+vcfutils="/media/javier/3TB/Work/WorkVLA/Software/VariantAnalyser/vcfutils.pl"
